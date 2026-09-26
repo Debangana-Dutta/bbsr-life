@@ -108,7 +108,7 @@ export default function AuthPage() {
             {mode === 'login' ? 'Welcome Back, Scholar!' : 'Begin Your Campus Legacy'}
           </h2>
           <p className="text-xs text-slate-400 font-mono mt-1">
-            {mode === 'login' ? 'Sign in to access your quests & coins' : 'Create your player identity at IIT BBS'}
+            {mode === 'login' ? 'Sign in to access your quests & coins' : 'Create your player identity at XIM BBS'}
           </p>
         </div>
 
@@ -157,7 +157,7 @@ export default function AuthPage() {
                     required
                     value={name}
                     onChange={e => setName(e.target.value)}
-                    placeholder="e.g. Pihu"
+                    placeholder="e.g. Aimee"
                     className="w-full bg-slate-950 border border-slate-700 rounded-xl pl-9 pr-4 py-2.5 text-sm text-white focus:outline-none focus:border-emerald-500 font-mono"
                   />
                 </div>
