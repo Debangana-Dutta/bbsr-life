@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🏆 Hackathon
 
-## Getting Started
+## IIT Bhubaneswar Web Hackathon — Life RPG
 
-First, run the development server:
+**BBSR-Life** was developed as a submission for the **Web Hackathon** organized by **Indian Institute of Technology Bhubaneswar (IIT Bhubaneswar)**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+🔗 **Hackathon:** https://unstop.com/hackathons/web-hackathon-indian-institute-of-technology-bhubaneswar-1742721
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🎉 Round 1 — Qualified
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+BBSR-Life successfully **qualified Round 1** of the IIT Bhubaneswar Web Hackathon and advanced to **Round 2**.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+📅 **Round 2:** 31 October 2026
 
-## Learn More
+The project was built around the hackathon's **Life RPG** problem statement, which challenges participants to transform everyday productivity into an engaging RPG-style experience using:
 
-To learn more about Next.js, take a look at the following resources:
+- 🎮 Gamification
+- ⭐ XP and progression
+- 🔥 Streaks
+- 🧠 Character attributes
+- 🎒 Inventory and rewards
+- 🔐 Authentication
+- 🗄️ Persistent database storage
+- 📱 Responsive and accessible UI
+- ⚡ Interactive and responsive user experience
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+BBSR-Life approaches the challenge by combining a retro RPG-inspired interface with a full-stack web architecture to turn real-world activities into quests and measurable character progression.
